@@ -7,3 +7,8 @@ h1 {
     font-size: 22px;
     color: blue;
 }
+div{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+}
